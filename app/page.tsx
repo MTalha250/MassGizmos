@@ -46,7 +46,7 @@ const page = () => {
                 responsible and innovative decisions for a greener future.
               </p>
               <Link
-                href="/products"
+                href="#products"
                 className="rounded-xl mt-10 sm:text-lg md:text-xl px-8 py-3 border border-white bg-transparent text-black  dark:border-white relative group transition duration-200"
               >
                 <div className="rounded-xl flex absolute bottom-0 right-0 bg-purple-800  h-full w-full -z-10 group-hover:scale-x-90 group-hover:scale-y-75 transition-all duration-200" />

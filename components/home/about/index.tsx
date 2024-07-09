@@ -51,10 +51,10 @@ const About = () => {
           Join us in embracing a sustainable future, one gadget at a time.
           <motion.span variants={variants}>
             <Link
-              href=""
+              href="#contact"
               className="mt-5 group w-fit hover:bg-purple-600 hover:text-white py-1 px-5 rounded-full transition duration-300 items-center space-x-3 font-bold font-bask bg-secondary text-primary flex"
             >
-              <span>Join Us</span>
+              <span>Contact</span>
               <span className="w-[25px] overflow-hidden">
                 <span className="transition-transform duration-500 flex w-full -translate-x-full group-hover:translate-x-0">
                   <PiArrowRightThin className="text-2xl shrink-0" />
