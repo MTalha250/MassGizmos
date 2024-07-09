@@ -12,7 +12,7 @@ import { navLinks } from "@/constants";
 import logo from "@/assets/logo.png";
 const Footer = () => {
   return (
-    <footer className="bg-primary text-secondary pt-20 pb-14 border-t border-white">
+    <footer className="bg-primary text-secondary pb-14 border-t border-white">
       <div className="py-10 px-8 md:px-16">
         <div className="flex flex-wrap justify-between gap-10">
           <img
