@@ -1,6 +1,12 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
+import Footer from "@/components/footer";
+import Navbar from "@/components/navbar";
+import { Toaster } from "react-hot-toast";
+import WhatsApp from "@/components/WhatsApp";
+import Marquee from "react-fast-marquee";
+import MyMarquee from "@/components/Marquee";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,8 +21,20 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={inter.className}>{children}</body>
+    <html
+      lang="en"
+      style={{
+        scrollBehavior: "smooth",
+      }}
+    >
+      <body className={inter.className}>
+        <Navbar />
+        {children}
+        <Footer />
+        <Toaster />
+        <WhatsApp />
+        <MyMarquee />
+      </body>
     </html>
   );
 }
