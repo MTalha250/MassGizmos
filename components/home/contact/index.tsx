@@ -104,15 +104,15 @@ const Contact = () => {
           </h2>
           <span className="text-xl font-light">massgizmos@gmail.com</span>
         </motion.div>
-        <motion.div className="py-5" variants={variants}>
-          <h2 className="font-bold text-transparent bg-gradient-to-r from-purple-500 to-white bg-clip-text text-4xl font-bask">
-            Address
-          </h2>
-          <span className="text-xl font-light">Lahore - Pakistan</span>
-        </motion.div>
         <motion.div className="item" variants={variants}>
           <h2 className="font-bold text-transparent bg-gradient-to-r from-purple-500 to-white bg-clip-text text-4xl font-bask">
             Phone
+          </h2>
+          <span className="text-xl font-light">+92 328 3280007</span>
+        </motion.div>
+        <motion.div className="item" variants={variants}>
+          <h2 className="font-bold text-transparent bg-gradient-to-r from-purple-500 to-white bg-clip-text text-4xl font-bask">
+            Whatsapp
           </h2>
           <span className="text-xl font-light">+92 345 2761076</span>
         </motion.div>
