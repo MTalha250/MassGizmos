@@ -104,7 +104,7 @@ const Contact = () => {
           </h2>
           <span className="text-xl font-light">massgizmos@gmail.com</span>
         </motion.div>
-        <motion.div className="item" variants={variants}>
+        <motion.div className="item py-5" variants={variants}>
           <h2 className="font-bold text-transparent bg-gradient-to-r from-purple-500 to-white bg-clip-text text-4xl font-bask">
             Phone
           </h2>
