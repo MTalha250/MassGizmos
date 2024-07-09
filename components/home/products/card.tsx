@@ -49,7 +49,7 @@ const Card = ({ images, title, description, price, variants }: Props) => {
           PKR {price}
         </p>
         <a
-          href="#"
+          href="https://wa.me/923452761076"
           className="rounded-xl block w-fit mt-6 md:mt-10 text-base md:text-lg lg:text-xl px-6 md:px-8 bg-transparent py-2 md:py-3 border border-white text-black dark:border-white relative group/button transition duration-200"
         >
           <div className="rounded-xl flex absolute bottom-0 right-0 bg-purple-800 h-full w-full group-hover/button:scale-x-90 group-hover/button:scale-y-75 transition-all duration-200" />

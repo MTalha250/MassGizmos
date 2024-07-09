@@ -102,7 +102,7 @@ const Contact = () => {
           <h2 className="font-bold  text-transparent bg-gradient-to-r from-purple-500 to-white bg-clip-text text-4xl font-bask">
             Mail
           </h2>
-          <span className="text-xl font-light">info@justmade.io</span>
+          <span className="text-xl font-light">massgizmos@gmail.com</span>
         </motion.div>
         <motion.div className="py-5" variants={variants}>
           <h2 className="font-bold text-transparent bg-gradient-to-r from-purple-500 to-white bg-clip-text text-4xl font-bask">
@@ -114,7 +114,7 @@ const Contact = () => {
           <h2 className="font-bold text-transparent bg-gradient-to-r from-purple-500 to-white bg-clip-text text-4xl font-bask">
             Phone
           </h2>
-          <span className="text-xl font-light">+92 321 1234567</span>
+          <span className="text-xl font-light">+92 345 2761076</span>
         </motion.div>
       </motion.div>
       <div className="mt-10 md:mt-0 w-full md:w-1/2 relative">

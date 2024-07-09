@@ -5,7 +5,7 @@ const WhatsApp = () => {
   return (
     <a
       className="border fixed bottom-5 md:bottom-4 left-2 md:left-8 bg-purple-800 p-2.5 rounded-full"
-      href="https://wa.me/923334170555"
+      href="https://wa.me/923452761076"
       target="_blank"
       rel="noopener noreferrer"
       style={{

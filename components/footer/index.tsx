@@ -65,18 +65,18 @@ const Footer = () => {
             <ul className="mt-4 text-sm space-y-2">
               <li>
                 <FaPhone className="rotate-90  inline mr-2 text-purple-500" />{" "}
-                +92 333 4170555
+                +92 328 3280007
               </li>
               <li>
                 <FaEnvelope className="inline  mr-2 text-purple-500" />
                 <a href="mailto:arfanmaryams@gmail.com">
                   {" "}
-                  arfaandmaryams@gmail.com
+                  massgizmos@gmail.com
                 </a>
               </li>
               <li>
                 <FaWhatsapp className="inline text-lg mr-2 text-purple-500" />
-                <a href="https://wa.me/923334170555"> +92 333 4170555</a>
+                <a href="https://wa.me/923452761076"> +92 345 2761076</a>
               </li>
               <li className="flex mt-2">
                 <FaMapMarkerAlt className="inline mr-2  text-lg text-purple-500" />
