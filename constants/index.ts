@@ -83,4 +83,25 @@ export const products = [
       "Illuminate your workspace with our Mini Study Lamp! This compact lamp features a pen holder and adjustable neck, making it perfect for studying, reading, or working. Its sleek design and energy-efficient LED light make it a stylish and practical addition to any desk.",
     price: 999,
   },
+  {
+    title: "Mini portable printer",
+    images: ["/p1.jpeg", "/p2.jpeg", "/p3.jpeg"],
+    description:
+      "Print your photos on the go with our Mini Portable Printer! This compact printer connects to your phone via Bluetooth and prints high-quality photos in seconds. Perfect for capturing memories and creating keepsakes, it’s a must-have for any photography enthusiast.",
+    price: 3299,
+  },
+  {
+    title: "Mini electric portable blender",
+    images: ["/b1.jpeg", "/b2.jpeg", "/b3.jpeg"],
+    description:
+      "Blend your favorite smoothies and shakes anywhere with our Mini Electric Portable Blender! This compact blender is rechargeable and features a powerful motor for quick and easy blending. Perfect for the gym, office, or travel, it’s a convenient way to stay healthy on the go.",
+    price: 1200,
+  },
+  {
+    title: "Watch ultra along 7 straps",
+    images: ["/w1.jpeg", "/w2.jpeg", "/w3.jpeg"],
+    description:
+      "Stay stylish and connected with our Watch Ultra Along 7 Straps! This sleek smartwatch features a customizable display, heart rate monitor, and fitness tracker. With seven interchangeable straps, it’s the perfect accessory for any outfit or occasion.",
+    price: 3000,
+  },
 ];
